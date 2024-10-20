@@ -1,0 +1,14 @@
+.incident-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.incident-field {
+  margin-right: 20px; /* 添加右边距 */
+}
+
+.incident-actions {
+  display: flex;
+  align-items: center;
+}
